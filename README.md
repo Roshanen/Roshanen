@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanen&show_icons=true&title_color=6755ec&hide_border=true&locale=en&layout=compact" alt="roshanen" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanen&show_icons=true&title_color=6755ec&hide_border=true&locale=en&layout=compact" alt="roshanen" /></p>
+-->
 #### My profile got only a few things? 
 #### Yes, I'm too lazy.
