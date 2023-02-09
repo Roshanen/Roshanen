@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   #### My profile got only a few things? 
+  <br>
 #### Yes, I'm too lazy.
   <br>
   <a href="https://github.com/Roshanen">
